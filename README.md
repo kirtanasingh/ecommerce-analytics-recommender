@@ -99,6 +99,3 @@ Content-based filtering works without any purchase history, so it helps with new
 - FP-Growth was limited to the top 300 products to avoid memory crashes on free Colab, so rare combinations are not captured
 - ALS hyperparameters were not tuned
 - Future work: hybrid recommender (ALS + content + popularity), real-time streaming with Kafka, deployment as an API
-
-## Author
-Your Name, Roll No, College
